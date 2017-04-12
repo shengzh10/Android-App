@@ -7,15 +7,6 @@ package com.ssl.locate.test;
 
 public class Test {
 
-    private int testA;
-
-    public int getTestA() {
-        return testA;
-    }
-
-    public void setTestA(int testA) {
-        this.testA = testA;
-    }
 
     private int testB;
 
