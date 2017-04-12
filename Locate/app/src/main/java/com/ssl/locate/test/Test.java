@@ -16,4 +16,15 @@ public class Test {
     public void setTestA(int testA) {
         this.testA = testA;
     }
+
+    private int testB;
+
+
+    public int getTestB() {
+        return testB;
+    }
+
+    public void setTestB(int testB) {
+        this.testB = testB;
+    }
 }
